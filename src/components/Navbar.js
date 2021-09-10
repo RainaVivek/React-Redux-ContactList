@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   return (
     <nav>
-      <Link to="/">React Redux Contact App</Link>
+      <Link to="/">Draft Version React Redux Contact App</Link>
     </nav>
   );
 };
